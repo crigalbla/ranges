@@ -72,6 +72,7 @@ new value.
 - If the value are not in the range values, the input will be set en red and the value will not set in the range.  
 - The value will never be less than min or greater than max input values.  
 - When some bullet is on hover or dragging, this bullet will get bigger and the cursor will be draggable type.  
+- The width of the range component can be set if we want.  
 - The range values can be that we want(positive values), some examples:  
     `{ min: 1, max: 100 }  
     { min: 15, max: 75 }  
